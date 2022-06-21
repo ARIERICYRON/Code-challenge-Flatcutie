@@ -1,4 +1,3 @@
-# Code-challenge-Flatcutie
 # Flatacuties
 
 Today you'll be building an app for voting for the cutest animal! You will be
